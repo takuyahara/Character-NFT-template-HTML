@@ -13,7 +13,7 @@ const Home = (props) => {
         <meta property="og:title" content="Character NFT template" />
       </Helmet>
       <header data-thq="thq-navbar" className="home-navbar">
-        <span className="home-logo">Karacter</span>
+        <span className="home-logo">Character</span>
         <div
           data-thq="thq-navbar-nav"
           data-role="Nav"
